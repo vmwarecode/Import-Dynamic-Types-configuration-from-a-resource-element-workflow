@@ -1,1 +1,0 @@
-# Import-Dynamic-Types-configuration-from-a-resource-element-workflow
